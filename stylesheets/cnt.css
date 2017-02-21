@@ -5,18 +5,20 @@
 . {
   margin-top: 10px;
   padding-top: 10px;
+
 }
 
 
 .big {
-  width: 1440px;
-  height: 648px;
-  margin: auto;
+  width: 1100px;
+  height: 650px;
+  margin-left: 30px;
   /*background-color: blue;*/
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  text-decoration: none;
 
 }
 
@@ -30,11 +32,13 @@
 }
 
 .picture {
-  height: 648px;
-  width: 1440px;
+  height: 800px;
+  width: 950px;
+  margin-top: 100px;
   /*padding-top: 5px;*/
   background-color:white;
   background-size: cover;
+  margin-left: -40px;
 }
 .small1 {
   width: 560px;
@@ -55,9 +59,69 @@
   margin-bottom: 50px;
 
 }
+ .logo {
 
+     width: 182px;
+     height: 870px;
+     padding-left: px;
+     margin-left: px;
+     margin-top: 161px;
+     margin-right: -370px;
+     background-repeat: no-repeat;
+}
+.logofb {
+  width: 138px;
+  height: 128px;
+  padding-left: px;
+  margin-left: px;
+  margin-top: -180px;
+  margin-right: -300px;
+}
+
+.more{
+  width: 80px;
+  height: 70px;
+  padding-left: px;
+  margin-top: 490px;
+  margin-left: 1340px;
+}
+.fonts {
+  height: 187px;
+  width: 50px;
+  margin-top: 295px;
+  margin-right: -352px;
+  /* padding-top: 5px; */
+  background-color: white;
+  background-size: cover;
+  margin-left: 100px;
+  z-index: 4;
+  margin-left: 163px;
+
+}
+
+/*.end {
+  width: 150px;
+  height: 362px;
+  padding-left:10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  z-index: 1;
+  background-color: r
+}*/
 
 
 #img1_1 {
 background-image: url(../imgs/img1.png);
 }
+
+#logo {
+  background-image: url(../imgs/logo.png);
+}
+
+#fonts {
+  background-image: url(../imgs/fonts.png);
+}
+
+/*#fonts:hover  {
+  background-image: url(../imgs/hover.png);
+}*/
