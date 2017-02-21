@@ -5,6 +5,7 @@
 . {
   margin-top: 10px;
   padding-top: 10px;
+
 }
 
 
@@ -59,14 +60,14 @@
 
 }
  .logo {
-    width: 128px;
-    height: 370px;
-    padding-left: px;
-    margin-left: px;
-    margin-top: 161px;
-    margin-right: -370px;
-    background-repeat: no-repeat;
 
+     width: 182px;
+     height: 870px;
+     padding-left: px;
+     margin-left: px;
+     margin-top: 161px;
+     margin-right: -370px;
+     background-repeat: no-repeat;
 }
 .logofb {
   width: 138px;
@@ -83,6 +84,19 @@
   padding-left: px;
   margin-top: 490px;
   margin-left: 1340px;
+}
+.fonts {
+  height: 187px;
+  width: 50px;
+  margin-top: 295px;
+  margin-right: -352px;
+  /* padding-top: 5px; */
+  background-color: white;
+  background-size: cover;
+  margin-left: 100px;
+  z-index: 4;
+  margin-left: 163px;
+
 }
 
 /*.end {
@@ -101,9 +115,13 @@ background-image: url(../imgs/img1.png);
 }
 
 #logo {
-  background-image: url(../imgs/fonts.png);
+  background-image: url(../imgs/logo.png);
 }
 
 #fonts {
   background-image: url(../imgs/fonts.png);
 }
+
+/*#fonts:hover  {
+  background-image: url(../imgs/hover.png);
+}*/
