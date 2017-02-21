@@ -1,6 +1,7 @@
 
 .shrimp {
-  font-family: 'Bebas Neue';
+  /*font-family: 'Bebas Neue';*/
+  font-family: 'Oswald', sans-serif;
   font-size: 22px;
   text-decoration: none;
   color: black;
@@ -12,7 +13,8 @@
 .shrimp1 {
   padding-top: 9px;
   margin-left: 235px;
-  font-family: 'Bebas Neue';
+  /*font-family: 'Bebas Neue';*/
+  font-family: 'Oswald', sans-serif;
   font-size: 22px;
   text-decoration: none;
 }
@@ -20,7 +22,8 @@
 .shrimp2{
   padding-top: 398px;
   margin-left: 940px;
-  font-family: 'Bebas Neue';
+  /*font-family: 'Bebas Neue';*/
+  font-family: 'Oswald', sans-serif;
   font-size: 22px;
   text-decoration: none;
 }
@@ -29,29 +32,8 @@
 .shrimp3 {
   padding-top: 15px;
   margin-left: 980px;
-  font-family: 'Bebas Neue';
+  /*font-family: 'Bebas Neue';*/
+  font-family: 'Oswald', sans-serif;
   font-size: 22px;
   text-decoration: none;
-}
-
-.text {
-  font-family: 'Bebas Neue';
-  font-size: 80px;
-  text-decoration: none;
-  color: black;
-  padding-top: 40px;
-  margin-left: 860px;
-  margin-top: -770px;
-
-}
-
-.text1 {
-  font-family: 'gill sans';
-  font-size: 18px;
-  text-decoration: none;
-  color: black;
-  padding-top: 25px;
-  margin-left: 860px;
-  margin-top: -20px;
-
 }
